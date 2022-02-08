@@ -1,0 +1,51 @@
+/* navbar */
+
+.nav-bar{
+    background-color: rgb(81, 104, 124);
+    margin: -8px;
+    margin-top: -21px;
+    box-shadow: 0px 5px 5px rgb(216, 216, 221);
+    text-align: center;
+    color: aliceblue;
+}
+
+.list-item{
+    list-style: none;
+    display: inline;
+    text-align: end;
+    background-color: rgb(78, 96, 111);
+    padding: 5px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.navbar-links{
+
+    display: inline;
+   
+}
+
+/* nav bar ^^ */
+
+body{
+    font-family: 'Arvo', serif;
+    text-align: center;
+}
+
+.intro{
+    text-align: center;
+    background-color: rgb(209, 215, 220);
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    /*margin-top: -80px;*/
+}
+
+.things{
+    box-shadow: 0px 5px 5px rgb(216, 216, 221);
+}
