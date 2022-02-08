@@ -1,0 +1,38 @@
+
+
+/* Nav Bar */
+.nav-bar{
+    background-color: rgb(81, 104, 124);
+    margin: -8px;
+    margin-top: -21px;
+    box-shadow: 0px 5px 5px rgb(216, 216, 221);
+    text-align: center;
+}
+
+.list-item{
+    list-style: none;
+    display: inline;
+    text-align: end;
+    background-color: rgb(78, 96, 111);
+    padding: 5px;
+}
+
+.navbar-links{
+
+    display: inline;
+   
+}
+
+.Title{
+    margin-left: 37px;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+}
+/* nav bar ^^ */
+
+body{
+    font-family: 'Arvo', serif;
+}
